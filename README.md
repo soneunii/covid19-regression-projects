@@ -26,7 +26,7 @@ average relative humidity of the day from 2016/1/1 to 2020/6/28.
   2) Visualized each variables' weights into predicting the average relative humidity, comparing both simple linear regression and regression with polynomial variables. 
 
 ## 2. GUIDE Regression Tree Analysis on Factors Affecting Probability on Dying from COVID-19 (GUIDE, R)
-[GUIDE Regression Tree Analysis on COVID-19 Project](https://github.com/soneunii/covid19-regression-projects/raw/main/README.md)
+[GUIDE Regression Tree Analysis on COVID-19 Project](soneunii/GUIDE-regression-tree-analysis-covid19/README.md)
 
 
 What kind of people are more suceptible to dying from COVID-19 when they get infected? With a dataset reported from 21 healthsystems with 145,944 subjects hospitalized with COVID-19 collected from February 1st, 2020 to January 31, 2022:
