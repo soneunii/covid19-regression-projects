@@ -1,4 +1,4 @@
-# covid19-regression-projects
+# Summary of COVID-19 Regression Analysis Projects 
 ## Overview
 "Keep your window open!", "Keep your humidifier off when you're inside!", "Don't sit where the airconditioning wind is blowing at you!"...
 Moving to my college dorm during the Summer of 2020, despite of the outbreak of COVID-19 earlier that year, the text messages I would get from my parents would be limited to articles from a local newspaper with a very unusual name with titles along the lines of '10 ways to fight COVID-19 at home' or 'How college students are spreading COVID-19." From a parent who's dropping off their youngest child to college in the midst of a deadly pandemic's perspective, I totally do the same in the worries and hopefullness that I would read those articles and be a little bit more careful. 
