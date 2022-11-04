@@ -8,6 +8,9 @@ But... what really spreads COVID-19?
 With the recent outbreak of COVID-19, researchers around the world have been trying to distinguish the environmental characteristics in which the virus is more likely to survive in. 'What causes covid-19' is a rather too theoretical of a question, a question that seems too easy but at the same time so hard to answer. 
 
 ## 1. The Effect of Releative Humidity on COVID-19 Cases in South Korea (Python)
+[Relative Humidity on the Spread of COVID-19 Project](https://github.com/soneunii/relative-humidity-on-covid-19)
+
+
 According to *University Hospitals*, https://tinyurl.com/9aw5jvr8 , UH pulmonologist David Rosenberg recommends
 keeping the relative humidity levels in the 40 to 60 percent range to potentially reduce the possibility for
 spreading the virus. The goal of this project is to see what factors of the weather contributes the most to
@@ -23,6 +26,9 @@ average relative humidity of the day from 2016/1/1 to 2020/6/28.
   2) Visualized each variables' weights into predicting the average relative humidity, comparing both simple linear regression and regression with polynomial variables. 
 
 ## 2. GUIDE Regression Tree Analysis on Factors Affecting Probability on Dying from COVID-19 (GUIDE, R)
+[GUIDE Regression Tree Analysis on COVID-19 Project](GUIDE-regression-tree-analysis-covid19)
+
+
 What kind of people are more suceptible to dying from COVID-19 when they get infected? With a dataset reported from 21 healthsystems with 145,944 subjects hospitalized with COVID-19 collected from February 1st, 2020 to January 31, 2022:
   1) Goal was to find which characteristic of someone hospitalized for COVID-19 is the most significant in affecting one's proability in dying from the disease. 
   2) Fitted a standard logistic model, GUIDE random forest, GUIDE logistic regression tree, and GUIDE tree to predict the probability of one dying from COVID-19, infer about th effects of the variables and the accuracy of the prediction models. 
